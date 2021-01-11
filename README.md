@@ -2,7 +2,9 @@
 # Bot Bumper
 *The first bot to bump your bot's advertisements as well as helping it grow to become famous*
 
+## Welcome
 
+Welcome to the official Bot Bumper repository!  We're so happy you found this repository, whether you accidentally stumbled upon it, searched for it, or anything else!  Please keep reading to familiarize yourself with what this repository is for.
 
 ## Intro
 This repository is mainly an issue tracker and an information hub.  The bot is **not** open sourced as of now, but this may change in the future!  Below are a few useful links relating to this project.
