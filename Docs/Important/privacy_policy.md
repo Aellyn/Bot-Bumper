@@ -46,7 +46,7 @@ Our data is stored in different ways and is stored for different amounts of time
 
   
 
-We understand that you and/or your server may not be comfortable with this bot collecting data, so we introduced a new data-collection opt-out system. To opt-out of data collection and have your data removed, please visit our support server and request data-deletion in the support channel. After requesting, we will manually remove your data. Please note that server blacklist and user blacklist data will not be removed, but data we collect from you such as your bot advertisement, server-setup channel IDs, etc. will be removed. Please note that upon removing data, bot functionality may be limited due to settings reverted, etc.
+We understand that you and/or your server may not be comfortable with this bot collecting data, so we introduced a new data-collection opt-out system. To run a data wipe for users, you can use the `removemybot` command.  This will remove everything associated to your bot.  If you are blacklisted or would like your server data removed, you can join our support server and request this in our support channel. After requesting, we will manually remove your data. Please note that server blacklist and user blacklist data will not be removed, but data we collect from you such as your bot advertisement, server-setup channel IDs, etc. will be removed. Please note that upon removing data, bot functionality may be limited due to settings reverted, etc.
 
   
 
